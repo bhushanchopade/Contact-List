@@ -1,0 +1,14 @@
+
+table{
+    width: 100%;
+    font-size: 14px;
+    text-align: left;
+
+}
+table tr{
+    border-bottom: 2px solid #b5b5b5;
+}
+.table-heading th,tr{
+    padding: 5px 30px;
+}
+
