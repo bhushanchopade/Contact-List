@@ -1,5 +1,5 @@
 # React Contact List 
-Live Project Demo link : https://contact-list-bhushan.netlify.app/
+Live Project Demo link : https://reactcontactlist.netlify.app/
 
 Git Repository clone link : https://github.com/bhushanchopade/Contact-List.git
 
